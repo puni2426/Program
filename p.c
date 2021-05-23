@@ -1,5 +1,5 @@
 #include<stdio.h>
-yoid main()
+void main()
 {
 	printf("punith");
 }
